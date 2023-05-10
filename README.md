@@ -2,7 +2,6 @@
 =====================
 Involves
 * cs2023s2
-* git
-* GitHub
+* git 
+* GitHub cs2023s2
 * SSH
-23s2
